@@ -1,4 +1,4 @@
-import readlineSync from 'readline-sync';
+import readlineSync from 'readline-sync'
 
 function greet() {
     const username = readlineSync.question('May I know your name? ')
