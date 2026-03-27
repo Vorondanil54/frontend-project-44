@@ -3,7 +3,6 @@
 import readlineSync from 'readline-sync'
 import { greet } from '../src/cli.js'
 
-console.log('Welcome to the Brain Games!')
 const username = greet()
 
 console.log('Answer "yes" if the number is even, otherwise answer "no".')
