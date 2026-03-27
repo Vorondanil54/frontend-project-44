@@ -9,7 +9,7 @@ console.log('Answer "yes" if the number is even, otherwise answer "no".')
 
 let answerWrong = false
 
-for (let count = 1; count < 4; count += 1) {
+for (let count = 1; count <= 3; count += 1) {
   const question = Math.floor(Math.random() * (20 - 1 + 1)) + 1
   console.log(`Question: ${question}`)
 
