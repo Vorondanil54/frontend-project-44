@@ -7,7 +7,7 @@ brain-games:
 publish:
 	npm publish --dry-run
 
-link:
+compile:
 	npm link
 
 lint:
