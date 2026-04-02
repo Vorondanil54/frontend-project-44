@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import readlineSync from 'readline-sync'
-import { greet } from '../src/cli.js'
+import greet from '../src/cli.js'
 
 const username = greet()
 

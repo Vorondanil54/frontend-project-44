@@ -7,4 +7,4 @@ function greet() {
   return username
 }
 
-export { greet }
+export default greet
