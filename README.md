@@ -15,3 +15,7 @@ brain-progression:
 
 brain-prime:
 [![asciicast](https://asciinema.org/a/RlqG0xy2zQJHos4Z.svg)](https://asciinema.org/a/RlqG0xy2zQJHos4Z)
+
+
+SonarQube badge:
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Vorondanil54_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Vorondanil54_frontend-project-44)
